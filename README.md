@@ -1,7 +1,7 @@
 # Hey! I'm Manish.
 
 ## 💫 About Me:
-I'm currently working on my <a href="https://manishcode.netlify.app/" style="font-size:20px">portfolio</a> <br>I'm looking for help with Netlify.<br>I'm currently learning the Backend with Node and Express.<br>Ask me about React and any front-end tech.<br> Focsed on frontend.<br><br>
+I'm currently working on my <a href="https://manishcode.netlify.app/" style="font-size:20px">portfolio</a> <br>I'm looking for help with Netlify.<br>I'm currently learning the Backend with Node and Express.<br>Ask me about React and any front-end tech.<br> Focused on frontend.<br><br>
 
 
 ## 🌐 Socials:
