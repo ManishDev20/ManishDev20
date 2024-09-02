@@ -2,16 +2,16 @@
 
 ## 💫 About Me:
 <ul style="" >
-  <li>I'm on a challenge of turning code in cash with web development</li>
-  <li>I'm helping small businesses to make an online presence for business growth.</li>
-  <li>If this excites you, follow me on X & LinkedIn. Let's Connect!</li>
-  <li>Ask me about Frontend Techs</li>
+  <li>Currently Working on HackNest.</li>
+  <li>Focused on creating simple web solutions.</li>
+  <li>I code, I develop, I deploy, and I love doing it.</li>
+  <li>Let's Connect, and Grow Together. </li>
   <li>The fun fact is: being a Entrepreneur >>> being a Developer</li>
 </ul>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.manish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-meena-7653b92a3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23633809) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manishdev21) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev.manish_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-meena-7653b92a3)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manishdev21) 
 
 
 ## 📊 GitHub Stats:
