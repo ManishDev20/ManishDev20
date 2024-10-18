@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 <ul style="" >
-  <li>Currently Working on HackNest.</li>
+  <li>Currently Working on my Portfolio Website</li>
   <li>Focused on creating simple web solutions.</li>
   <li>I code, I develop, I deploy, and I love doing it.</li>
   <li>Let's Connect, and Grow Together. </li>
