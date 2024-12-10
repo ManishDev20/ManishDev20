@@ -2,11 +2,11 @@
 
 ## 💫 About Me:
 <ul style="" >
-  <li>Currently Working on my Portfolio Website</li>
+  <li>Currently Building Webbers</li>
   <li>Focused on creating simple web solutions.</li>
   <li>I code, I develop, I deploy, and I love doing it.</li>
   <li>Let's Connect, and Grow Together. </li>
-  <li>The fun fact is: being a Entrepreneur >>> being a Developer</li>
+  <li>The fun fact is: I have to think about it!</li>
 </ul>
 
 
