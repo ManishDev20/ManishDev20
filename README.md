@@ -3,10 +3,10 @@
 ## 💫 About Me:
 <ul style="" >
   <li>I'm a freelance Web Developer.</li>
-  <li>Currently Building A Remote Agency.</li>
-  <li>I help businesses to go Digital.</li>
-  <li>I love the Combo of React + Tailwind CSS</li>
-  <li>Fun Fact: Freelacing >>> 9-5 JOB</li>
+  <li>I Love designing and developing websites.</li>
+   <li>I help creators, professionals and brands to go Online.</li>
+  <li>Always open for new ideas to build something Epic </li>
+  <li>I love the Combo of Next.js + Tailwind CSS</li>
 </ul>
 
 
